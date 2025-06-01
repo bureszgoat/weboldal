@@ -23,7 +23,9 @@ const links = [
     logoWidth: '320', 
     logoMaxHeight: '150px',
     logoMarginTop: '10px' // Alapértelmezett felső margó, vagy amennyi szükséges
-  },
+  }
+  /*
+  ,
 
   {
     id: 'NVCASINO', 
