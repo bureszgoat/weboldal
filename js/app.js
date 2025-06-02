@@ -6,7 +6,7 @@ const linksLoadingPlaceholder = document.getElementById('links-loading');
 
 // Kaszinó link adatok frissítve a megadottra, új mezőkkel a logó méretéhez és felső margójához
 const links = [
-
+/*
   {
     id: 'TRUSTDICE', 
     title: 'TRUSTDICE',
@@ -24,24 +24,26 @@ const links = [
     logoMaxHeight: '150px',
     logoMarginTop: '10px' // Alapértelmezett felső margó, vagy amennyi szükséges
   }
-  /*
+  
   ,
 
+*/
+
   {
-    id: 'NVCASINO', 
-    title: 'NVCASINO',
+    id: 'BETMATCH', 
+    title: 'BETMATCH',
     description: `<ul>
                     <li>VAN KÁRTYÁS ÉS CRYPTO DEPO IS</li>
-                    <li>KÖTELEZŐ KYC</li>
-                    <li>LEVEL UP RENDSZER</li>
+                    <li>NINCS KYC</li>
+                    <li>JÓ SPORTFOGADÁS</li>
                   </ul>`,
-    url: 'https://nvpartnerspromo.com/l/6821e380536b159318087d2f', 
-    logo: 'img/nvfeher.png', 
+    url: 'https://trackmyaff.com/?serial=61321931&creative_id=4935', 
+    logo: 'img/betmatch.png', 
     badgeText: '', 
     badgeType: '',
     logoWidth: '150px', 
     logoMaxHeight: '70px',
-    logoMarginTop: '55px'  // Példa érték az NVCASINO logó lejjebb tolásához, ezt finomhangolhatod
+    logoMarginTop: '35px'  // Példa érték az NVCASINO logó lejjebb tolásához, ezt finomhangolhatod
   }
   // Ha több kaszinót szeretnél, itt folytasd a sort, és add meg a logoWidth, logoMaxHeight és logoMarginTop értékeket:
   /*
