@@ -30,15 +30,16 @@ const links = [
 */
 
   {
-    id: 'BETMATCH', 
-    title: 'BETMATCH',
+    id: 'BETFURY', 
+    title: 'BETFURY',
     description: `<ul>
-                    <li>VAN KÁRTYÁS ÉS CRYPTO DEPO IS</li>
+                    <li>iNSTANT CO</li>
                     <li>NINCS KYC</li>
-                    <li>JÓ SPORTFOGADÁS</li>
+                    <li>HETI ÉS HAVI CASHBACK</li>
+                    <li>VIP RENDSZER</li>
                   </ul>`,
-    url: 'https://trackmyaff.com/?serial=61321931&creative_id=4935', 
-    logo: 'img/betmatch.png', 
+    url: 'https://betfury.tv/4kWGYXV', 
+    logo: 'img/betfury.png', 
     badgeText: '', 
     badgeType: '',
     logoWidth: '150px', 
