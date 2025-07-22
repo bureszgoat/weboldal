@@ -39,7 +39,7 @@ const links = [
                     <li>100% DEPOSIT BONUS + 50 FREE SPINS</li>
                    </ul>`,
     url: 'https://betfury.tv/4kWGYXV', 
-    logo: 'img/betfury2.png', 
+    logo: 'img/betfury.png', 
     badgeText: '', 
     badgeType: '',
     logoWidth: '150px', 
