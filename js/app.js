@@ -33,10 +33,11 @@ const links = [
     id: 'BETFURY', 
     title: 'BETFURY',
     description: `<ul>
-                    <li>VAN KÁRTYÁS ÉS CRYPTO DEPO IS</li>
-                    <li>NINCS KYC</li>
-                    <li>JÓ SPORTFOGADÁS</li>
-                  </ul>`,
+                    <li>INSTANT CRYPTO CASHOUT</li>
+                    <li>NO KYC</li>
+                    <li>WEEKLY AND MONTHLY CASHBACK</li>
+                    <li>100% DEPOSIT BONUS + 50 FREE SPINS</li>
+                   </ul>`,
     url: 'https://betfury.tv/4kWGYXV', 
     logo: 'img/betfury.png', 
     badgeText: '', 
