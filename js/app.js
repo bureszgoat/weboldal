@@ -42,8 +42,8 @@ const links = [
     logo: 'img/betfury.png', 
     badgeText: '', 
     badgeType: '',
-    logoWidth: '150px', 
-    logoMaxHeight: '70px',
+    logoWidth: '200px', 
+    logoMaxHeight: '93px',
     logoMarginTop: '35px'  // Példa érték az NVCASINO logó lejjebb tolásához, ezt finomhangolhatod
   }
   // Ha több kaszinót szeretnél, itt folytasd a sort, és add meg a logoWidth, logoMaxHeight és logoMarginTop értékeket:
