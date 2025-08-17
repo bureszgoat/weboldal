@@ -47,8 +47,8 @@ const links = [
     logoMarginTop: '35px'  // Példa érték az NVCASINO logó lejjebb tolásához, ezt finomhangolhatod
   }
    {
-    id: 'Billionairespin', 
-    title: 'Billionairespin',
+    id: 'IvyBet', 
+    title: 'IvyBet',
     description: `<ul>
                     <li>CRYPTO AND CARD DEPOSIT</li>
                     <li> KYC</li>
@@ -167,6 +167,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if(linksLoadingPlaceholder) linksLoadingPlaceholder.textContent = "Hiba: Az oldal struktúrája nem megfelelő.";
     }
 });
+
 
 
 
