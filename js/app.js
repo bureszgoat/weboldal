@@ -33,7 +33,7 @@ const links = [
     id: 'Billionairespin', 
     title: 'Billionairespin',
     description: `<ul>
-                    <li></li>
+                    <li>CRYPTO AND CARD DEPOSIT</li>
                     <li> KYC</li>
                     <li>WEEKLY AND MONTHLY CASHBACK</li>
                     <li>100% DEPOSIT BONUS + 50 FREE SPINS</li>
@@ -150,5 +150,6 @@ document.addEventListener('DOMContentLoaded', () => {
         if(linksLoadingPlaceholder) linksLoadingPlaceholder.textContent = "Hiba: Az oldal struktúrája nem megfelelő.";
     }
 });
+
 
 
