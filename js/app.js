@@ -34,7 +34,7 @@ const links = [
     title: 'Billionairespin',
     description: `<ul>
                     <li>CRYPTO AND CARD DEPOSIT</li>
-                    <li> KYC</li>
+                    <li>KYC</li>
                     <li>CASHBACK UP TO 25%</li>
                     <li>100% DEPOSIT BONUS + 250 FREE SPINS</li>
                    </ul>`,
@@ -52,7 +52,7 @@ const links = [
     title: 'IvyBet',
     description: `<ul>
                     <li>CRYPTO AND CARD DEPOSIT</li>
-                    <li> KYC</li>
+                    <li>KYC</li>
                     <li>CASHBACK UP TO 25%</li>
                     <li>100% DEPOSIT BONUS + 250 FREE SPINS</li>
                    </ul>`,
@@ -168,6 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if(linksLoadingPlaceholder) linksLoadingPlaceholder.textContent = "Hiba: Az oldal struktúrája nem megfelelő.";
     }
 });
+
 
 
 
