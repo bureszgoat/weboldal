@@ -35,8 +35,8 @@ const links = [
     description: `<ul>
                     <li>CRYPTO AND CARD DEPOSIT</li>
                     <li> KYC</li>
-                    <li>WEEKLY AND MONTHLY CASHBACK</li>
-                    <li>100% DEPOSIT BONUS + 50 FREE SPINS</li>
+                    <li>CASHBACK UP TO 25%</li>
+                    <li>100% DEPOSIT BONUS + 250 FREE SPINS</li>
                    </ul>`,
     url: 'https://bit.ly/BureszxBS', 
     logo: 'img/0x0.png', 
@@ -52,8 +52,8 @@ const links = [
     description: `<ul>
                     <li>CRYPTO AND CARD DEPOSIT</li>
                     <li> KYC</li>
-                    <li>WEEKLY AND MONTHLY CASHBACK</li>
-                    <li>100% DEPOSIT BONUS + 50 FREE SPINS</li>
+                    <li>CASHBACK UP TO 25%</li>
+                    <li>100% DEPOSIT BONUS + 250 FREE SPINS</li>
                    </ul>`,
     url: 'https://bit.ly/BureszxIB', 
     logo: 'img/0x0(1).png', 
@@ -167,6 +167,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if(linksLoadingPlaceholder) linksLoadingPlaceholder.textContent = "Hiba: Az oldal struktúrája nem megfelelő.";
     }
 });
+
 
 
 
