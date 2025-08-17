@@ -46,6 +46,23 @@ const links = [
     logoMaxHeight: '93px',
     logoMarginTop: '35px'  // Példa érték az NVCASINO logó lejjebb tolásához, ezt finomhangolhatod
   }
+   {
+    id: 'Billionairespin', 
+    title: 'Billionairespin',
+    description: `<ul>
+                    <li>CRYPTO AND CARD DEPOSIT</li>
+                    <li> KYC</li>
+                    <li>WEEKLY AND MONTHLY CASHBACK</li>
+                    <li>100% DEPOSIT BONUS + 50 FREE SPINS</li>
+                   </ul>`,
+    url: 'https://bit.ly/BureszxIB', 
+    logo: 'img/0x0(1).png', 
+    badgeText: '', 
+    badgeType: '',
+    logoWidth: '200px', 
+    logoMaxHeight: '93px',
+    logoMarginTop: '35px'  // Példa érték az NVCASINO logó lejjebb tolásához, ezt finomhangolhatod
+  }
   // Ha több kaszinót szeretnél, itt folytasd a sort, és add meg a logoWidth, logoMaxHeight és logoMarginTop értékeket:
   /*
   {
@@ -150,6 +167,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if(linksLoadingPlaceholder) linksLoadingPlaceholder.textContent = "Hiba: Az oldal struktúrája nem megfelelő.";
     }
 });
+
 
 
 
