@@ -57,7 +57,7 @@ const links = [
                     <li>100% DEPOSIT BONUS + 250 FREE SPINS</li>
                    </ul>`,
     url: 'https://bit.ly/BureszxIB', 
-    logo: 'img/0x0(1).png', 
+    logo: 'img/ivybet.png', 
     badgeText: '', 
     badgeType: '',
     logoWidth: '200px', 
@@ -168,6 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if(linksLoadingPlaceholder) linksLoadingPlaceholder.textContent = "Hiba: Az oldal struktúrája nem megfelelő.";
     }
 });
+
 
 
 
