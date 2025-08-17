@@ -38,8 +38,8 @@ const links = [
                     <li>WEEKLY AND MONTHLY CASHBACK</li>
                     <li>100% DEPOSIT BONUS + 50 FREE SPINS</li>
                    </ul>`,
-    url: 'https://betfury.tv/4kWGYXV', 
-    logo: 'img/betfury.png', 
+    url: 'https://bit.ly/BureszxBS', 
+    logo: 'img/0x0.png', 
     badgeText: '', 
     badgeType: '',
     logoWidth: '200px', 
@@ -150,4 +150,5 @@ document.addEventListener('DOMContentLoaded', () => {
         if(linksLoadingPlaceholder) linksLoadingPlaceholder.textContent = "Hiba: Az oldal struktúrája nem megfelelő.";
     }
 });
+
 
