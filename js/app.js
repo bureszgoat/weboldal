@@ -45,8 +45,9 @@ const links = [
     logoWidth: '200px', 
     logoMaxHeight: '93px',
     logoMarginTop: '35px'  // Példa érték az NVCASINO logó lejjebb tolásához, ezt finomhangolhatod
-  }
-   {
+  },
+  
+  {
     id: 'IvyBet', 
     title: 'IvyBet',
     description: `<ul>
@@ -167,6 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if(linksLoadingPlaceholder) linksLoadingPlaceholder.textContent = "Hiba: Az oldal struktúrája nem megfelelő.";
     }
 });
+
 
 
 
